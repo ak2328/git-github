@@ -4,5 +4,9 @@ no
 hey
 none
 =======
+<<<<<<< HEAD
 noo
+=======
+yoo
+>>>>>>> master
 
