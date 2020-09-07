@@ -2,4 +2,10 @@ hello world
 yes
 no
 let's see
+<<<<<<< HEAD
 check
+=======
+=======
+can see
+
+
